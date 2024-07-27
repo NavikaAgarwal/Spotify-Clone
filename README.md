@@ -10,8 +10,8 @@ This Spotify Clone is a web application that mimics the core features of Spotify
 - **Search**: Find songs, albums, and artists.
 
 ## Technologies
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
 
